@@ -1,0 +1,14 @@
+
+.logo{
+    width: 50%;
+}
+.row{
+    padding: 10px 30px;
+    background-color: lightblue;
+}
+.btn-buy-now{
+    color: #fff;
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
